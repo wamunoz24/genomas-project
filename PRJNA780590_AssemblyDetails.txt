@@ -1,5 +1,4 @@
-# PRJNA780590 Assembly Details
-# Assembly	Level	WGS	BioSample	Strain	Taxonomy
+Assembly	Level	WGS	BioSample	Strain	Taxonomy
 GCA_024391745.1	Contig	JAJKTH000000000	SAMN23168746	SM_1290	Escherichia coli	
 GCA_024391695.1	Contig	JAJKTG000000000	SAMN23168747	SM_1380	Escherichia coli	
 GCA_024391715.1	Contig	JAJKTF000000000	SAMN23168748	SM_1434	Escherichia coli	
