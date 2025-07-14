@@ -4,18 +4,18 @@ SM_1380	LIBANO orina
 SM_1434	ISRAEL higado
 SM_1436	GUATEMALA liquido_peritoneal
 SM_1435	GUATEMALA Abceso
-SM_1437	GUATEMALA Aspirado endotraqueal
+SM_1437	GUATEMALA Aspirado_endotraqueal
 SM_1438	GUATEMALA Esputo
 SM_1439	ITALIA Esputo
-SM_1440	PUERTO RICO Orina
+SM_1440	PUERTO_RICO Orina
 SM_1443	EGIPTO Orina
-SM_1448	EGIPTO Aspirado endotraqueal
+SM_1448	EGIPTO Aspirado_endotraqueal
 SM_1442	EGIPTO Orina
 SM_1444	EGIPTO Gastrointestinal
-SM_1446	ITALIA Lavado broncoalveolar
+SM_1446	ITALIA Lavado_broncoalveolar
 SM_1450	USA Orina
-SM_1447	ITALIA Lavado broncoalveolar
+SM_1447	ITALIA Lavado_broncoalveolar
 SM_1449	USA desaparecido
 SM_1688	COLOMBIA Orina
 SM_1560	ITALIA Pus
-SM_1682	COLOMBIA
+SM_1682	COLOMBIA Orina
